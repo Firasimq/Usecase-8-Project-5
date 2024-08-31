@@ -23,7 +23,7 @@
 - We used the K-means elbow method to determine the optimal number of clusters. The analysis indicated that the best value for k was 3, as it provided a clear distinction in cluster performance and minimized within-cluster variance.
 
 # Performance Metric Visuals 
-- 
+- Faisal 
 
 
 
@@ -32,7 +32,7 @@
 
 
 # Feature and Prediction Insights 
--
+- Faisal 
 
 
 
