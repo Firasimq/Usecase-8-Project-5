@@ -23,7 +23,7 @@
 - We used the K-means elbow method to determine the optimal number of clusters. The analysis indicated that the best value for k was 3, as it provided a clear distinction in cluster performance and minimized within-cluster variance.
 
 # Performance Metric Visuals 
-- Faisal 
+- we Used Elbow method to determine the best value of the number of clusters in K-means and found out that it was 3.  
 
 
 
@@ -32,7 +32,7 @@
 
 
 # Feature and Prediction Insights 
-- Faisal 
+- we suspect that the model is clustering based on the city, since that when we filter out clusters we see a lot of cities together, specially Riyadh, Jeddah, Khober. 
 
 
 
