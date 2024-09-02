@@ -36,7 +36,7 @@
 
 
 #Notes: 
-- We used different github repos to do the work, one for cleaning mainly and the other for deployment, here's the other (one)[https://github.com/FaisalMathCS/Usecase-8-Project-5]
+- We used different github repos to do the work, one for cleaning mainly and the other for deployment, here's the other [one](https://github.com/FaisalMathCS/Usecase-8-Project-5)
 
 
 
