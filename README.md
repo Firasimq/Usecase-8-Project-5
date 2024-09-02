@@ -23,8 +23,7 @@
 - We used the K-means elbow method to determine the optimal number of clusters. The analysis indicated that the best value for k was 3, as it provided a clear distinction in cluster performance and minimized within-cluster variance.
 
 # Performance Metric Visuals 
-- we Used Elbow method to determine the best value of the number of clusters in K-means and found out that it was 3.  
-
+- we Used silhouette score to determine which model to use between k-means and DBSCAN, k-means had 0.52, and DBSCAN had 0.42.
 
 
 # Best Model Determination 
