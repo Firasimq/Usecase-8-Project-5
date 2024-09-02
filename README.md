@@ -1,6 +1,7 @@
 # Introduction 
 - When planning a party in Riyadh, selecting the best restaurant that offers the perfect ambiance, high-quality food is crucial. With a wide variety of cuisines available in the city, choosing the right restaurant can be overwhelming. To make an informed decision, analyzing data from restaurant websites becomes essential.
 
+
 # Dataset Synopsis and Origin
 - The dataset contains information about 1,369 restaurants, with the following columns:
 1-Name: The name of the restaurant.
@@ -34,7 +35,8 @@
 - we suspect that the model is clustering based on the city, since that when we filter out clusters we see a lot of cities together, specially Riyadh, Jeddah, Khober. 
 
 
-
+#Notes: 
+- We used different github repos to do the work, one for cleaning mainly and the other for deployment, here's the other (one)[https://github.com/FaisalMathCS/Usecase-8-Project-5]
 
 
 
